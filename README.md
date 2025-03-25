@@ -7,14 +7,13 @@ EcoImpact is a comprehensive mobile application designed to promote sustainable 
 ## Key Features
 
 ### 1. Carbon Emission Tracking
-![Carbon Emission Breakdown](![Screenshot_2025-03-25-14-29-15-76_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/4c94d9c2-a9b0-4c74-802e-650694975f51)
-)
+![Explore Projects](Screenshot_2025-03-25-14-33-16-76_f73b71075b1de7323614b647fe394240.jpg)
 - Visual breakdown of your carbon emissions by category (Travel, Electricity, LPG Gas)
 - Daily step tracking to encourage eco-friendly transportation
 - Progress toward monthly carbon reduction goals
 
 ### 2. Impact Dashboard
-![Impact Dashboard](![Screenshot_2025-03-25-14-29-15-76_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/759f43a4-41a4-4aaa-82c6-1aedc9007da2)
+![Explore Projects](Screenshot_2025-03-25-14-33-16-76_f73b71075b1de7323614b647fe394240.jpg)
 5-14-34-29-16_f73b71075b1de7323614b647fe394240.jpg)
 - Track your sustainability metrics in one place
 - View carbon saved, renewable energy projects, and daily goals
