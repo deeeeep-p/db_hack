@@ -1,19 +1,22 @@
 # EcoImpact - Sustainable Living Platform
 
-![App Demo Video](link-to-your-demo-video.mp4) <!-- Replace with your actual video link -->
+## APP DEMO VIDEO
+ <!-- Replace with your actual video link -->
+https://github.com/user-attachments/assets/1bd44daf-9a08-4fce-97ef-e22d122d57c9
 
 EcoImpact is a comprehensive mobile application designed to promote sustainable living through energy tracking, eco-friendly product discovery, community projects, and carbon footprint reduction.
 
 ## Key Features
 
 ### 1. Carbon Emission Tracking
-![Explore Projects](Screenshot_2025-03-25-14-33-16-76_f73b71075b1de7323614b647fe394240.jpg)
+![carbon](https://github.com/user-attachments/assets/9b5eccbc-a447-4d57-9466-54dfe8a29859)
 - Visual breakdown of your carbon emissions by category (Travel, Electricity, LPG Gas)
 - Daily step tracking to encourage eco-friendly transportation
 - Progress toward monthly carbon reduction goals
 
 ### 2. Impact Dashboard
-![Explore Projects](Screenshot_2025-03-25-14-33-16-76_f73b71075b1de7323614b647fe394240.jpg)
+![impact dash](https://github.com/user-attachments/assets/a4ee5486-c854-4ec1-9baf-bef6eb288131)
+
 5-14-34-29-16_f73b71075b1de7323614b647fe394240.jpg)
 - Track your sustainability metrics in one place
 - View carbon saved, renewable energy projects, and daily goals
@@ -21,7 +24,8 @@ EcoImpact is a comprehensive mobile application designed to promote sustainable 
 - Earn rewards for sustainable actions
 
 ### 3. Sustainable Product Marketplace
-![Greener Products](Screenshot_2025-03-25-14-34-18-12_f73b71075b1de7323614b647fe394240.jpg)
+![products](https://github.com/user-attachments/assets/2894b58e-fce0-455f-9693-0ce308bf44d1)
+
 - Discover handpicked eco-friendly products
 - Categories include solar, wind, hydro, and biomass solutions
 - Purchase sustainable alternatives for everyday items
@@ -29,18 +33,20 @@ EcoImpact is a comprehensive mobile application designed to promote sustainable 
 
 
 ### 4. Community Projects
-![Explore Projects](Screenshot_2025-03-25-14-33-16-76_f73b71075b1de7323614b647fe394240.jpg)
+![projects](https://github.com/user-attachments/assets/0dbc55bf-6e6a-4b98-a984-19321fdb99cb)
+
 - Browse and support local sustainability initiatives
 - Track project funding progress
 - Participate in community discussions about environmental issues
 - A real-time web scraper that surfaces urgent environmental news to highlight investment opportunities in renewable energy projects.
 
-### 5. Project Management
-![Project Details](Screenshot_2025-03-25-14-33-39-75_f73b71075b1de7323614b647fe394240.jpg)
-- Directly invest in and crowdfund vetted sustainability projects, empowering users to fund a greener future.
-- Detailed view of sustainability projects
-- Track tasks, budgets, and approvals
-- View meeting summaries and progress reports
+### 5. Electricity Bill Analysis
+![bills](https://github.com/user-attachments/assets/82c5d359-dbea-4b0c-a312-a42b1a0447a8)
+- Upload and analyze your electricity bills for detailed insights.
+- Track electricity consumption patterns over time.
+- Receive personalized recommendations for energy savings.
+- Compare your usage with average consumption in your area.
+- Identify potential areas for reducing your carbon footprint.
 
 
 ## Technology Stack
